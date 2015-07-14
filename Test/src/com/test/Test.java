@@ -17,7 +17,7 @@ public class Test {
 		int[] data={10,20,20,30};
 		int add=0;
            for(int i:data){
-        	   
+
         	   System.out.println(i);
         	   add+=i;
            }
