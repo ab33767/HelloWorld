@@ -23,6 +23,8 @@ public class Test {
            }
            
            System.out.println("sum is "+ add);
+           System.out.println("testing");
+           System.out.println("github");
 	}
 
 }
