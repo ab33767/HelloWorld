@@ -14,14 +14,15 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		int sum=0;
-           for(int i=0;i<5;i++){
+		int[] data={10,20,20,30};
+		int add=0;
+           for(int i:data){
+        	   
         	   System.out.println(i);
-        	   sum+=i;
+        	   add+=i;
            }
            
-           System.out.println("sum is "+ sum);
+           System.out.println("sum is "+ add);
 	}
 
 }
