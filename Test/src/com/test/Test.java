@@ -14,9 +14,9 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		int data=5;
 		int sum=0;
-           for(int i=0;i<5;i++){
+           for(int i=0;i<data;i++){
         	   System.out.println(i);
         	   sum+=i;
            }
